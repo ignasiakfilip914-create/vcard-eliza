@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "dev": "vite --host 0.0.0.0",
-    "build": "vite",
+    "dev": "vite",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -10,10 +10,7 @@
     "react": "latest",
     "react-dom": "latest",
     "framer-motion": "latest",
-    "lucide-react": "latest",
-    "tailwindcss": "latest",
-    "postcss": "latest",
-    "autoprefixer": "latest"
+    "lucide-react": "latest"
   },
   "devDependencies": {}
 }
